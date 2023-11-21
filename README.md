@@ -1,2 +1,2 @@
-# -
-TypeScript的贪吃蛇小案例
+# TypeScript的贪吃蛇小案例 
+
